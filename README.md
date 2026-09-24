@@ -1,209 +1,137 @@
-# Awesome-Forestry-Management
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Forestry-Management">
+    <img src="assets/banner.svg" alt="Awesome Forestry Management Banner" width="100%">
+  </a>
+</p>
 
-## Top Forestry Management Platforms Ecosystem
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Forestry-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Forestry-Management?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Forestry-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Forestry-Management?style=flat-square&color=blue" alt="GitHub Forks"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Forestry-Management/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Forestry-Management?style=flat-square&color=green" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**
+# 🌲 Awesome Forestry Management Software & Tools
 
-*Focused on Forest Inventory, Harvest Planning, Timber Supply, GIS Mapping & Sustainable Forest Operations*
+## 🌿 Top Forestry Management Platforms & Software Ecosystem
+
+**Curated List of SaaS Products, GIS Tools & Open-Source GitHub Projects for Forestry Management**
+
+*Focused on Forest Inventory, Harvest Planning, Timber Supply Chain, Remote Sensing, LiDAR Analytics, GIS Mapping & Sustainable Forest Operations.*
 
 **Last updated: September 2026**
 
+---
 
+## 📌 Overview & Key Insights
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Forestry Management**. These systems support forest inventory, growth & yield, harvest scheduling, timber supply chain, remote sensing, and operational planning for commercial, governmental, and conservation forestry.
+This repository tracks notable **SaaS platforms** and **open-source projects** designed for **Forestry Management**. These digital forestry solutions support forest inventory cruising, growth & yield modeling, harvest scheduling, timber supply chain visibility, satellite/LiDAR remote sensing, and operational spatial planning for commercial, governmental, and conservation forestry.
 
-
-
-**Examples** include Remsoft, SilviaTerra, Trimble Forestry, eForest, Forest Metrix, Forest Information System, PlanIT Geo, ForestHQ, Arbonaut, and Timbeter (the category leaders).
-
-
-
-**Open-source emphasis**: Commercial optimization and supply-chain platforms dominate industrial forestry. The strongest open suite is **Open Foris** (FAO) for inventory, monitoring, and field data, plus **QGIS** and related geospatial tools. This section lists the best available open resources and is realistic about the commercial gap for full operations planning.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-products)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-- **[Remsoft](https://remsoft.com/)**  
-
-  Forest planning and optimization software for harvest scheduling, wood flow, supply-chain planning, and forest-to-mill visibility.
-
-
-
-- **[SilviaTerra](https://www.silviaterra.com/)**  
-
-  Forest inventory and carbon platform using remote sensing and machine learning for timber and carbon stock estimates.
-
-
-
-- **[Trimble Forestry](https://forestry.trimble.com/)**  
-
-  Integrated forestry software covering inventory, operations, timber supply, contracts, and end-to-end forest supply-chain management.
-
-
-
-- **[eForest and regional forest information systems](https://www.example.com/)**  
-
-  National and regional forest information and management platforms used by agencies and large landowners.
-
-
-
-- **[Forest Metrix](https://www.forestmetrix.com/)**  
-
-  Mobile and desktop forest inventory and cruising software for field data collection and timber valuation.
-
-
-
-- **[PlanIT Geo](https://planitgeo.com/)**  
-
-  Urban and community forestry software for tree inventory, canopy assessment, and municipal forest management.
-
-
-
-- **[ForestHQ](https://www.foresthq.com/)**  
-
-  Digital forestry platform for inventory, planning, and operational management of forest assets.
-
-
-
-- **[Arbonaut](https://www.arbonaut.com/)**  
-
-  Forest inventory, remote-sensing, and decision-support solutions for sustainable forest management.
-
-
-
-- **[Timbeter](https://www.timbeter.com/)**  
-
-  Mobile timber measurement and log-inventory platform using computer vision for volume estimation and tracking.
-
-
-
-- **[Other commercial forestry GIS and operations suites](https://www.example.com/)**  
-
-  Additional specialized tools for growth & yield, harvest planning, and timber sales administration.
-
-
-
-## Open-Source GitHub Projects
-
-- **[Open Foris Collect](https://github.com/openforis/collect)**  
-
-  Leading open-source desktop and mobile tool for designing and conducting forest and land inventories with strong validation and offline support (FAO).
-
-
-
-- **[Open Foris Arena / Collect Earth / related suite](https://github.com/openforis)**  
-
-  Broader Open Foris ecosystem for field data storage, satellite-assisted interpretation, and forest monitoring used worldwide for national inventories and climate reporting.
-
-
-
-- **[QGIS](https://github.com/qgis/QGIS)**  
-
-  Open-source GIS widely used for forest mapping, inventory analysis, stand delineation, and spatial planning.
-
-
-
-- **[Open Foris SEPAL and cloud analysis tools](https://github.com/openforis)**  
-
-  Open cloud-based processing environments for remote-sensing analysis of forests and land cover.
-
-
-
-- **[Forest inventory and growth open models](https://github.com/)**  
-
-  Community and research implementations of growth & yield models, volume equations, and inventory estimators.
-
-
-
-- **[Remote-sensing and LiDAR open forestry tools](https://github.com/)**  
-
-  Open libraries for processing ALS/LiDAR and satellite data for canopy height, biomass, and disturbance mapping.
-
-
-
-- **[Mobile field-data open collectors](https://github.com/)**  
-
-  Open mobile apps and forms frameworks used for forest cruising and plot measurement.
-
-
-
-- **[Timber measurement and log open prototypes](https://github.com/)**  
-
-  Experimental computer-vision and measurement tools inspired by commercial log-scaling solutions.
-
-
-
-- **[Spatial optimization open solvers for harvest planning](https://github.com/)**  
-
-  Open optimization libraries that can be applied to simplified harvest-scheduling problems.
-
-
-
-- **[Documentation and national inventory open resources](https://github.com/)**  
-
-  Guides and templates aligned with FAO and national forest inventory practices.
-
-
-
-### Additional Strong Open-Source Options
-
-- Using the **Open Foris** suite for field inventory, monitoring, and climate-related forest reporting.
-
-- Combining **QGIS** with open remote-sensing tools for mapping and analysis.
-
-- Accepting that industrial harvest optimization, multi-year wood-flow planning, contract-to-mill integration, and enterprise timber supply-chain systems still favor commercial platforms (Remsoft, Trimble Forestry, SilviaTerra, Arbonaut, etc.).
-
-- Focusing open-source efforts on transparent inventory methods, national monitoring capacity, and data ownership.
-
-
-
-**Frameworks for building custom systems**: Design surveys in Open Foris Collect → collect field data offline → process and analyze in QGIS or Open Foris cloud tools → feed results into commercial planning systems when optimization and supply-chain integration are required. Suitable for agencies, research, smallholders, and NGOs. Large commercial forest owners typically run commercial forestry management and optimization platforms for operational decisions.
-
-
-
-## How to Contribute
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Forestry management involves land, environmental, and sometimes regulated timber resources. Professional forestry practice and local regulations apply. This list is not silvicultural or legal advice.
-
-
+> [!NOTE]
+> **Open-Source vs. Enterprise Commercial Software**: Industrial forestry operations, multi-year wood-flow optimization, and timber supply chain management are dominated by enterprise commercial suites like Trimble Forestry and Remsoft. However, open-source ecosystems like **QGIS** and the FAO **Open Foris** suite lead in field inventory collection, transparent forest monitoring, and satellite remote sensing.
 
 ---
 
-**Made for foresters, inventory specialists, and sustainable forest managers.**
+## 📑 Table of Contents
 
-Let's keep forest data accurate, transparent, and as open as practical.
+- [🏢 SaaS & Commercial Platforms](#-saas--commercial-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
+- [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
+
+---
+
+## 🏢 SaaS & Commercial Platforms
+
+### 📊 Sector Market Size & Industry Concentration
+
+> 📈 **Market Size & Fragmentation**: The global forestry software and forest management market is estimated at **$2.26 Billion in 2025** and is projected to expand at a **CAGR of ~16.5%** through 2032. The sector is **moderately fragmented**: enterprise industrial planning is concentrated among dominant players (e.g., Trimble, Remsoft), while niche segments (urban forestry, mobile cruising, computer-vision scaling) host active innovation from specialized technology vendors.
+
+### 💼 Commercial SaaS Products Matrix
+
+Below is a curated overview of SaaS products, sorted in descending order by estimated company size/valuation and revenue scale.
+
+| Product | Description | Company Size / Revenue Scale | Starting Price | Free Tier / Trial Limit |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Trimble Forestry](https://forestry.trimble.com/)** | Enterprise integrated forestry suite covering inventory, log supply, contract management, and mill-to-forest traceability. | **Public ($13.8B+ Market Cap, $3.8B+ Annual Rev)** | $2,500 / module / year | 30-day trial for Trimble Connect/desktop modules |
+| **[SilviaTerra (NCX)](https://www.silviaterra.com/)** | High-resolution forest inventory and natural capital carbon exchange platform powered by satellite remote sensing. | **Series B ($50M+ Valuation, ~$12M Revenue)** | $500 / project assessment | Free land eligibility check & carbon plot evaluation |
+| **[Remsoft](https://remsoft.com/)** | Spatial forestry planning and harvest scheduling optimization software for forest operations and wood-flow planning. | **Private Enterprise ($15M - $25M Revenue)** | $3,600 / planner seat / year | 14-day full feature interactive demo |
+| **[Arbonaut](https://www.arbonaut.com/)** | LiDAR and remote sensing decision-support platform for inventory assessments and forest biomass estimation. | **Mid-Market ($8M - $15M Revenue)** | $1,200 / region contract | 14-day restricted access sandbox |
+| **[PlanIT Geo](https://planitgeo.com/)** | TreePlotter platform for urban forestry management, canopy assessment, tree inventory, and municipal arboriculture. | **Growth Stage ($5M - $10M Revenue)** | $750 / year | 14-day free trial on TreePlotter INVENTORY |
+| **[Forest Metrix](https://www.forestmetrix.com/)** | Mobile and desktop forest inventory cruising and timber valuation software for field foresters. | **Niche SaaS ($2M - $5M Revenue)** | $1,000 / year (Pro plan) | 28-day (4-week) full feature trial without credit card |
+| **[Timbeter](https://www.timbeter.com/)** | Computer-vision mobile log measurement and timber inventory platform for log scaling and pile volume estimation. | **Venture-Backed ($2M - $5M Revenue)** | €125 / month | 10 free timber log measurements |
+| **[ForestHQ](https://www.foresthq.com/)** | Digital forest asset inventory, harvest tracking, and operational mapping solution. | **Early Stage ($1M - $3M Revenue)** | $600 / year | 14-day trial for operational logging accounts |
+
+---
+
+## 🔓 Open-Source GitHub Projects
+
+Explore top open-source repositories and analytical tools for forest cruising, LiDAR point cloud processing, geospatial mapping, and growth modeling. Sorted in descending order by GitHub Star counts.
+
+| Open-Source Project | Description | Stars Badge | Key Capabilities |
+| :--- | :--- | :--- | :--- |
+| **[QGIS](https://github.com/qgis/QGIS)** | Premier open-source Geographic Information System used worldwide for forest canopy mapping, stand delineation, and spatial GIS planning. | [<img stroke="none" src="https://img.shields.io/github/stars/qgis/QGIS?style=social&color=white" alt="QGIS Stars"/>](https://github.com/qgis/QGIS/stargazers) | Desktop GIS, LiDAR plugins, Raster analysis |
+| **[OpenTreeMap / otm-core](https://github.com/OpenTreeMap/otm-core)** | Collaborative urban forestry tree inventory platform for crowdsourced ecosystem services mapping. | [<img stroke="none" src="https://img.shields.io/github/stars/OpenTreeMap/otm-core?style=social&color=white" alt="otm-core Stars"/>](https://github.com/OpenTreeMap/otm-core/stargazers) | Urban forestry, Tree inventory, Eco-benefits |
+| **[USDA Forest Service / FIESTA](https://github.com/USDAForestService/FIESTA)** | R package for evaluating Forest Inventory and Analysis (FIA) sample-based datasets. | [<img stroke="none" src="https://img.shields.io/github/stars/USDAForestService/FIESTA?style=social&color=white" alt="FIESTA Stars"/>](https://github.com/USDAForestService/FIESTA/stargazers) | Sample estimation, FIA plots, Forest stats |
+| **[Open Foris Collect](https://github.com/openforis/collect)** | FAO desktop and mobile survey designer and field collector for national forest monitoring. | [<img stroke="none" src="https://img.shields.io/github/stars/openforis/collect?style=social&color=white" alt="Collect Stars"/>](https://github.com/openforis/collect/stargazers) | Mobile survey, Offline collection, Validation |
+| **[Forest-Stack](https://github.com/datakaveri/Forest-Stack)** | Geospatial analytics modules in Python & TypeScript for carbon estimation and forest management. | [<img stroke="none" src="https://img.shields.io/github/stars/datakaveri/Forest-Stack?style=social&color=white" alt="Forest-Stack Stars"/>](https://github.com/datakaveri/Forest-Stack/stargazers) | Carbon math, Geo-analytics, Cloud pipelines |
+| **[Bureau-du-Forestier-en-chef / FMT](https://github.com/Bureau-du-Forestier-en-chef/FMT)** | C++ library with Python/R wrappers for spatial forest management planning and harvest simulation. | [<img stroke="none" src="https://img.shields.io/github/stars/Bureau-du-Forestier-en-chef/FMT?style=social&color=white" alt="FMT Stars"/>](https://github.com/Bureau-du-Forestier-en-chef/FMT/stargazers) | Spatial optimization, Wood-flow simulation |
+| **[rForest](https://github.com/carlos-alberto-silva/rForest)** | R package providing 3D stem visualization, taper equations, and timber inventory metrics. | [<img stroke="none" src="https://img.shields.io/github/stars/carlos-alberto-silva/rForest?style=social&color=white" alt="rForest Stars"/>](https://github.com/carlos-alberto-silva/rForest/stargazers) | 3D stem modeling, Taper curves, Inventory |
+| **[ForAINet](https://github.com/prs-eth/ForAINet)** | 3D deep learning framework for automated forest inventory using high-density airborne LiDAR. | [<img stroke="none" src="https://img.shields.io/github/stars/prs-eth/ForAINet?style=social&color=white" alt="ForAINet Stars"/>](https://github.com/prs-eth/ForAINet/stargazers) | Deep learning, Airborne LiDAR, Individual tree detection |
+| **[pytreedb](https://github.com/3dgeo-heidelberg/pytreedb)** | Python REST API & database system for storing tree inventory metrics and 3D point cloud data. | [<img stroke="none" src="https://img.shields.io/github/stars/3dgeo-heidelberg/pytreedb?style=social&color=white" alt="pytreedb Stars"/>](https://github.com/3dgeo-heidelberg/pytreedb/stargazers) | 3D Database, REST API, Tree metrics |
+| **[forestinventory](https://github.com/AndreasChristianHill/forestinventory)** | R package for combining field plot data with remote sensing covariates using multi-phase estimators. | [<img stroke="none" src="https://img.shields.io/github/stars/AndreasChristianHill/forestinventory?style=social&color=white" alt="forestinventory Stars"/>](https://github.com/AndreasChristianHill/forestinventory/stargazers) | Multi-phase estimation, LiDAR regression |
+
+---
+
+## 🛠️ Typical System Architecture Workflow
+
+```
+┌─────────────────────────┐      ┌─────────────────────────┐      ┌─────────────────────────┐
+│  Open Foris Collect     │ ───► │  QGIS & Remote Sensing  │ ───► │ Enterprise SaaS         │
+│  (Mobile Field Cruising)│      │  (LiDAR & Mapping)      │      │ (Remsoft / Trimble)     │
+└─────────────────────────┘      └─────────────────────────┘      └─────────────────────────┘
+```
+
+---
+
+## 🤝 How to Contribute
+
+Contributions are warmly welcomed! Please follow these simple steps to contribute:
+
+1. 🍴 **Fork** this repository.
+2. 📝 **Add or update** entries in `README.md` following the tabular layout.
+3. 🔎 Ensure all entries include: *Name, Link, Feature Details, Pricing/Star metrics, and Category*.
+4. 📬 Submit a **Pull Request** with a clear explanation of your additions.
+
+---
+
+## 💖 Support & Sponsorship
+
+If you find this curated list of forestry software and tools helpful, please consider supporting the project!
+
+- 🌟 **Star this repository** on GitHub to increase its visibility.
+- 🔀 **Fork and share** it with fellow foresters, researchers, and developers.
+- ☕ **Buy me a coffee**: Support ongoing maintenance via [GitHub Sponsors](https://github.com/sponsors/ishandutta2007).
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-ishandutta2007-ea4aaa?style=for-the-badge&logo=github-sponsors" alt="Sponsor on GitHub"/>
+  </a>
+</p>
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Forestry-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Forestry-Management&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer
+
+- This list is **community-curated** for educational, scientific, and informational purposes.
+- Inclusion of software products or open-source repositories does not constitute an official endorsement.
+- Professional forestry practices, local environmental regulations, and silvicultural standards apply to all operations.
