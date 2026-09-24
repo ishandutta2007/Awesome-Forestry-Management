@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Forestry-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Forestry-Management?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Forestry-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Forestry-Management?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Forestry-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Forestry-Management?style=flat-square&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Forestry-Management/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Forestry-Management?style=flat-square&color=green" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -69,9 +69,9 @@ Below is a curated overview of SaaS products, sorted in descending order by esti
 
 ## 🔓 Open-Source GitHub Projects
 
-Explore top open-source repositories and analytical tools for forest cruising, LiDAR point cloud processing, geospatial mapping, and growth modeling. Sorted in descending order by GitHub Star counts.
+Explore top open-source repositories and analytical tools for forest cruising, LiDAR point cloud processing, geospatial mapping, and growth modeling. Sorted in descending order by GitHub Stars_Counts.
 
-| Open-Source Project | Description | Stars Badge | Key Capabilities |
+| Open-Source Project | Description | Stars_Badge | Key Capabilities |
 | :--- | :--- | :--- | :--- |
 | **[QGIS](https://github.com/qgis/QGIS)** | Premier open-source Geographic Information System used worldwide for forest canopy mapping, stand delineation, and spatial GIS planning. | [<img stroke="none" src="https://img.shields.io/github/stars/qgis/QGIS?style=social&color=white" alt="QGIS Stars"/>](https://github.com/qgis/QGIS/stargazers) | Desktop GIS, LiDAR plugins, Raster analysis |
 | **[OpenTreeMap / otm-core](https://github.com/OpenTreeMap/otm-core)** | Collaborative urban forestry tree inventory platform for crowdsourced ecosystem services mapping. | [<img stroke="none" src="https://img.shields.io/github/stars/OpenTreeMap/otm-core?style=social&color=white" alt="otm-core Stars"/>](https://github.com/OpenTreeMap/otm-core/stargazers) | Urban forestry, Tree inventory, Eco-benefits |
